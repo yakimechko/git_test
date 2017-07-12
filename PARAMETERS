@@ -1,0 +1,7 @@
+X.0.3.: 0.3
+X.git_test.: git_test
+X.MRAN.2017.07.12...S3.WLOG.: MRAN[2017-07-12], S3.WLOG
+X.config_templ.txt.: config_templ.txt
+RSuiteVersion: 0.3
+Repositories: CRAN, S3.WLOG
+ZipVersion: 0.1
