@@ -12,6 +12,5 @@ source(file.path(script_path, "set_env.r"), chdir = T)
 config <- load_config()
 args <- args_parser()
 
-print("making changes")
-print("testing branch_target")
-print("testing branch_target")
+print("test commit")
+
